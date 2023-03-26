@@ -1,0 +1,1290 @@
+title,salary,total_exper,company_exper,gender,race,education
+Software Engineer,310000,15.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,620000,19.0,7.0,Male,Asian,Bachelor's Degree
+Software Engineer,210000,4.0,1.0,Male,Hispanic,Highschool
+Software Engineer,189000,2.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,347000,18.0,3.0,Male,Asian,Master's Degree
+Software Engineer,215000,3.0,1.0,Male,Asian,Master's Degree
+Technical Program Manager,300000,16.0,4.0,Male,Asian,Master's Degree
+Software Engineer,200000,9.0,3.0,Male,Asian,Master's Degree
+Software Engineering Manager,333000,15.0,0.0,Male,White,Some College
+Software Engineer,251000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,336000,14.0,3.0,Male,White,Master's Degree
+Software Engineer,161000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,340000,8.0,8.0,Male,Asian,Master's Degree
+Software Engineer,112000,0.0,0.0,Female,Asian,Master's Degree
+Product Manager,245000,15.0,5.0,Male,Asian,Master's Degree
+Product Manager,368000,10.0,4.0,Male,Two Or More,Master's Degree
+Software Engineer,149000,1.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineering Manager,351000,20.0,1.0,Male,Asian,Unknown
+Software Engineer,240000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,775000,20.0,1.0,Male,Asian,Unknown
+Product Manager,251000,10.0,0.0,Male,Asian,Unknown
+Software Engineer,267000,5.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,215000,3.0,3.0,Male,White,Master's Degree
+Software Engineer,142000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,172000,8.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,396000,8.0,8.0,Male,Asian,PhD
+Software Engineering Manager,330000,11.0,3.0,Male,White,Bachelor's Degree
+Product Manager,359000,20.0,1.0,Male,White,PhD
+Software Engineering Manager,320000,9.0,5.0,Male,Hispanic,PhD
+Software Engineer,240000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,240000,4.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,241000,0.0,0.0,Male,Asian,PhD
+Software Engineer,165000,4.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,189000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,243000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineer,310000,7.0,7.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,225000,5.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,240000,2.0,0.0,Male,Asian,Master's Degree
+Data Scientist,165000,1.0,0.0,Male,White,PhD
+Software Engineer,214000,5.0,0.0,Male,Two Or More,Master's Degree
+Software Engineer,240000,4.0,3.0,Male,Two Or More,Bachelor's Degree
+Product Manager,185000,7.0,1.0,Male,Hispanic,Master's Degree
+Software Engineer,260000,7.0,7.0,Male,Asian,Master's Degree
+Software Engineer,215000,8.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,240000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,207000,4.0,4.0,Male,Asian,Master's Degree
+Business Analyst,152000,5.0,1.0,Female,Asian,Master's Degree
+Software Engineer,181000,2.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,275000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineering Manager,352000,19.0,1.0,Male,Black,Master's Degree
+Software Engineer,254000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,199000,3.0,3.0,Female,Asian,Bachelor's Degree
+Software Engineer,189000,3.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,170000,1.0,0.0,Male,White,Bachelor's Degree
+Product Designer,129000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,190000,2.0,0.0,Male,Asian,Master's Degree
+Product Manager,300000,17.0,10.0,Male,Asian,Master's Degree
+Software Engineer,225000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,200000,5.0,3.0,Male,Asian,Master's Degree
+Software Engineer,255000,7.0,0.0,Male,Two Or More,Bachelor's Degree
+Product Manager,255000,9.0,4.0,Female,White,Master's Degree
+Software Engineer,220000,7.0,0.0,Male,White,Bachelor's Degree
+Product Manager,209000,10.0,2.0,Male,White,Master's Degree
+Software Engineer,204000,8.0,3.0,Female,Asian,Master's Degree
+Software Engineer,215000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,202000,5.0,5.0,Male,Asian,Master's Degree
+Software Engineer,265000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineering Manager,320000,20.0,6.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,221000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,220000,5.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,173000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,261000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineer,207000,9.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,154000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,700000,20.0,12.0,Male,White,Master's Degree
+Software Engineering Manager,600000,20.0,1.0,Male,Asian,PhD
+Business Analyst,90000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,210000,5.0,1.0,Male,White,Bachelor's Degree
+Product Manager,230000,11.0,0.0,Male,Two Or More,Master's Degree
+Software Engineer,186000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,175000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,246000,7.0,1.0,Male,Asian,Master's Degree
+Software Engineer,380000,8.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,789000,15.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,143000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,253000,12.0,0.0,Male,Hispanic,Bachelor's Degree
+Product Manager,295000,7.0,0.0,Male,Asian,Master's Degree
+Software Engineer,157000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineering Manager,300000,10.0,2.0,Male,White,Master's Degree
+Software Engineer,184000,4.0,0.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,191000,8.0,2.0,Male,White,Master's Degree
+Software Engineer,244000,11.0,8.0,Male,Asian,Master's Degree
+Software Engineer,161000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,200000,6.0,3.0,Male,Asian,Master's Degree
+Software Engineer,182000,6.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,284000,4.0,4.0,Male,Asian,Bachelor's Degree
+Product Designer,240000,10.0,3.0,Female,White,Bachelor's Degree
+Software Engineer,318000,7.0,7.0,Male,Asian,Master's Degree
+Software Engineer,175000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineer,168000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,200000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,200000,3.0,3.0,Female,Hispanic,Master's Degree
+Software Engineer,182000,3.0,0.0,Male,Asian,Master's Degree
+Business Analyst,178000,8.0,1.0,Male,Asian,Master's Degree
+Product Manager,225000,3.0,3.0,Female,Asian,Master's Degree
+Others,157000,12.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,204000,10.0,6.0,Male,Asian,Master's Degree
+Software Engineer,202000,13.0,5.0,Male,Asian,Master's Degree
+Software Engineer,217000,10.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,167000,14.0,2.0,Male,White,Some College
+Technical Program Manager,385000,20.0,8.0,Male,White,Bachelor's Degree
+Software Engineering Manager,550000,15.0,4.0,Male,Black,Master's Degree
+Software Engineer,180000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,285000,10.0,7.0,Male,White,Bachelor's Degree
+Software Engineer,181000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineer,450000,20.0,0.0,Male,White,Master's Degree
+Product Manager,350000,19.0,5.0,Male,Asian,Master's Degree
+Software Engineer,146000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineer,263000,7.0,7.0,Male,White,Bachelor's Degree
+Marketing,90000,2.0,0.0,Female,Asian,Bachelor's Degree
+Others,250000,8.0,6.0,Male,Asian,Master's Degree
+Software Engineer,297000,5.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,154000,0.0,0.0,Male,Two Or More,Bachelor's Degree
+Others,275000,20.0,0.0,Male,White,Highschool
+Product Designer,180000,5.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,177000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Bachelor's Degree
+Marketing,180000,10.0,3.0,Female,White,Bachelor's Degree
+Software Engineer,242000,2.0,0.0,Male,Asian,Master's Degree
+Product Manager,302000,13.0,3.0,Female,Asian,Master's Degree
+Software Engineer,157000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,211000,5.0,5.0,Male,Asian,Bachelor's Degree
+Others,130000,3.0,1.0,Female,White,Master's Degree
+Software Engineer,227000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,190000,7.0,5.0,Male,White,Unknown
+Software Engineer,280000,12.0,4.0,Male,Asian,Master's Degree
+Software Engineer,223000,5.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,213000,10.0,2.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,144000,0.0,0.0,Male,White,Bachelor's Degree
+Marketing,140000,7.0,3.0,Female,Asian,Master's Degree
+Software Engineer,215000,16.0,2.0,Male,Asian,Master's Degree
+Product Designer,214000,3.0,0.0,Male,Black,Bachelor's Degree
+Software Engineer,285000,8.0,4.0,Male,White,Bachelor's Degree
+Marketing,216000,5.0,1.0,Male,White,Highschool
+Software Engineer,200000,5.0,3.0,Female,White,Bachelor's Degree
+Product Designer,200000,6.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,160000,1.0,0.0,Male,White,Bachelor's Degree
+Product Manager,230000,6.0,2.0,Female,Asian,Master's Degree
+Data Scientist,300000,7.0,7.0,Male,Asian,Master's Degree
+Data Scientist,170000,5.0,0.0,Female,Asian,Master's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,173000,0.0,0.0,Male,White,Bachelor's Degree
+Product Manager,315000,7.0,3.0,Male,White,Master's Degree
+Software Engineer,165000,3.0,1.0,Male,Asian,Master's Degree
+Product Manager,350000,14.0,6.0,Female,White,Master's Degree
+Software Engineering Manager,336000,12.0,1.0,Male,Hispanic,Master's Degree
+Software Engineer,162000,4.0,1.0,Male,Asian,Master's Degree
+Software Engineer,220000,20.0,0.0,Male,Hispanic,Some College
+Software Engineer,153000,1.0,0.0,Male,White,Bachelor's Degree
+Software Engineering Manager,300000,10.0,2.0,Male,White,Master's Degree
+Others,65000,4.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,700000,15.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,210000,12.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,310000,10.0,4.0,Female,Asian,Master's Degree
+Software Engineer,199000,0.0,0.0,Male,Black,Bachelor's Degree
+Product Manager,207000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,282000,3.0,0.0,Male,Asian,Master's Degree
+Product Manager,333000,14.0,4.0,Male,Asian,Bachelor's Degree
+Others,130000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,168000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,310000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,345000,8.0,7.0,Male,White,Bachelor's Degree
+Others,86000,2.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,157000,0.0,0.0,Male,White,Master's Degree
+Software Engineer,165000,2.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,400000,25.0,2.0,Male,White,Master's Degree
+Software Engineer,158000,0.0,0.0,Male,White,Bachelor's Degree
+Product Manager,200000,15.0,1.0,Male,White,Unknown
+Business Analyst,143000,3.0,3.0,Female,Asian,Unknown
+Product Manager,212000,5.0,0.0,Male,White,Master's Degree
+Software Engineer,190000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,201000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,159000,7.0,2.0,Male,Hispanic,Bachelor's Degree
+Product Manager,220000,5.0,0.0,Female,Hispanic,Master's Degree
+Software Engineer,192000,6.0,6.0,Male,White,PhD
+Software Engineering Manager,357000,10.0,6.0,Male,Hispanic,PhD
+Software Engineer,170000,2.0,2.0,Male,Asian,Master's Degree
+Data Scientist,250000,8.0,4.0,Male,White,Master's Degree
+Product Manager,150000,4.0,0.0,Male,Asian,Master's Degree
+Technical Program Manager,175000,14.0,2.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,245000,2.0,0.0,Male,White,Master's Degree
+Software Engineer,135000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,235000,6.0,1.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,132000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,162000,2.0,1.0,Male,Hispanic,Bachelor's Degree
+Product Designer,150000,9.0,7.0,Male,Hispanic,Bachelor's Degree
+Product Manager,205000,4.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,166000,0.0,0.0,Female,Asian,Master's Degree
+Software Engineering Manager,510000,22.0,16.0,Male,White,Bachelor's Degree
+Others,250000,4.0,4.0,Male,White,Bachelor's Degree
+Others,114000,7.0,2.0,Female,White,Some College
+Software Engineer,165000,0.0,0.0,Male,Hispanic,Bachelor's Degree
+Product Manager,258000,12.0,8.0,Male,White,Master's Degree
+Product Manager,240000,15.0,4.0,Male,Asian,Master's Degree
+Software Engineer,164000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,172000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,285000,12.0,6.0,Male,Hispanic,Bachelor's Degree
+Data Scientist,225000,1.0,1.0,Male,White,Master's Degree
+Software Engineer,170000,1.0,0.0,Male,Asian,Master's Degree
+Others,178000,7.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,207000,6.0,2.0,Male,White,Bachelor's Degree
+Marketing,198000,10.0,4.0,Female,Black,Master's Degree
+Software Engineer,218000,3.0,0.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,140000,5.0,3.0,Female,Hispanic,Bachelor's Degree
+Software Engineer,171000,4.0,1.0,Female,White,Master's Degree
+Software Engineering Manager,422000,15.0,0.0,Male,Asian,Master's Degree
+Software Engineer,180000,4.0,0.0,Male,Asian,Master's Degree
+Business Analyst,92000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,207000,5.0,5.0,Female,Asian,Bachelor's Degree
+Others,135000,4.0,1.0,Male,White,Bachelor's Degree
+Software Engineering Manager,300000,10.0,2.0,Female,Asian,Bachelor's Degree
+Software Engineer,179000,2.0,0.0,Male,Asian,Unknown
+Product Manager,235000,8.0,6.0,Female,White,Bachelor's Degree
+Software Engineer,214000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,173000,1.0,0.0,Male,Two Or More,Master's Degree
+Product Manager,260000,5.0,0.0,Male,Black,Master's Degree
+Product Manager,360000,9.0,3.0,Female,Hispanic,Bachelor's Degree
+Others,180000,7.0,0.0,Female,White,Bachelor's Degree
+Software Engineer,216000,3.0,3.0,Male,White,Bachelor's Degree
+Product Designer,169000,2.0,2.0,Male,Asian,Unknown
+Product Manager,203000,10.0,3.0,Female,Asian,Master's Degree
+Software Engineer,147000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,415000,36.0,15.0,Male,White,Bachelor's Degree
+Product Designer,196000,8.0,0.0,Female,White,Bachelor's Degree
+Others,250000,12.0,8.0,Female,Asian,Master's Degree
+Marketing,204000,8.0,5.0,Female,White,Bachelor's Degree
+Software Engineering Manager,343000,24.0,7.0,Male,White,Bachelor's Degree
+Software Engineer,252000,3.0,0.0,Female,White,Master's Degree
+Product Manager,310000,15.0,5.0,Male,Asian,Master's Degree
+Software Engineer,129000,1.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,160000,5.0,0.0,Female,Asian,PhD
+Software Engineer,153000,1.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,135000,5.0,5.0,Male,Asian,Master's Degree
+Product Designer,190000,4.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineer,283000,4.0,4.0,Male,White,Bachelor's Degree
+Technical Program Manager,259000,20.0,1.0,Male,White,Unknown
+Software Engineer,199000,9.0,7.0,Male,Asian,Master's Degree
+Business Analyst,120000,0.0,0.0,Male,Asian,Master's Degree
+Product Manager,485000,14.0,8.0,Male,Asian,Master's Degree
+Software Engineer,182000,5.0,2.0,Male,Asian,Master's Degree
+Product Manager,370000,9.0,4.0,Male,Asian,Master's Degree
+Data Scientist,206000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,181000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,230000,10.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,405000,14.0,0.0,Male,Asian,Master's Degree
+Others,183000,10.0,2.0,Female,White,Unknown
+Software Engineer,234000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,242000,4.0,0.0,Male,Asian,Some College
+Business Analyst,121000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,151000,2.0,1.0,,Two Or More,Unknown
+Marketing,175000,7.0,1.0,Female,Asian,Master's Degree
+Software Engineer,200000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,180000,0.0,0.0,Male,White,Master's Degree
+Software Engineer,158000,0.0,0.0,Male,Black,Bachelor's Degree
+Product Manager,150000,5.0,4.0,Female,White,Bachelor's Degree
+Software Engineer,270000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,220000,10.0,10.0,Male,Asian,Master's Degree
+Software Engineer,200000,9.0,4.0,Male,Asian,Master's Degree
+Software Engineer,163000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,148000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,156000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,205000,6.0,1.0,Female,Asian,Unknown
+Software Engineer,153000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,210000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,156000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,189000,3.0,2.0,Male,Asian,Master's Degree
+Software Engineer,163000,1.0,0.0,Male,Asian,Master's Degree
+Software Engineer,160000,2.0,0.0,Female,White,Master's Degree
+Software Engineer,231000,7.0,7.0,Female,White,Master's Degree
+Software Engineer,220000,3.0,3.0,Female,Asian,Master's Degree
+Software Engineer,147000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,240000,8.0,1.0,Male,Asian,Master's Degree
+Product Manager,460000,16.0,8.0,Male,Asian,Master's Degree
+Software Engineer,210000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,165000,1.0,0.0,Male,Asian,Master's Degree
+Software Engineer,200000,5.0,2.0,Female,Asian,Master's Degree
+Others,358000,9.0,3.0,Female,Hispanic,Bachelor's Degree
+Others,193000,8.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,254000,7.0,7.0,Male,Asian,Bachelor's Degree
+Business Analyst,135000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineer,195000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,173000,2.0,1.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,138000,0.0,0.0,Male,Asian,Master's Degree
+Product Designer,400000,15.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,185000,4.0,4.0,Female,White,Master's Degree
+Software Engineer,235000,19.0,3.0,Male,White,Master's Degree
+Product Manager,300000,9.0,5.0,Male,Asian,Master's Degree
+Software Engineer,156000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,160000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,235000,8.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,166000,0.0,0.0,Female,Asian,Master's Degree
+Product Manager,183000,9.0,7.0,Male,Asian,Bachelor's Degree
+Business Analyst,130000,5.0,0.0,Male,Asian,Master's Degree
+Data Scientist,240000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,192000,12.0,2.0,Male,White,Master's Degree
+Others,131000,2.0,2.0,Male,White,Bachelor's Degree
+Product Manager,191000,4.0,1.0,Female,White,Bachelor's Degree
+Software Engineer,231000,14.0,0.0,Male,White,Bachelor's Degree
+Technical Program Manager,365000,10.0,0.0,Male,White,Master's Degree
+Technical Program Manager,230000,8.0,8.0,Female,White,Bachelor's Degree
+Software Engineer,126000,0.0,0.0,Female,Asian,Bachelor's Degree
+Business Analyst,128000,5.0,1.0,Male,Asian,Master's Degree
+Product Designer,190000,5.0,0.0,Female,White,Bachelor's Degree
+Product Manager,164000,5.0,1.0,Female,Asian,Master's Degree
+Software Engineer,145000,0.0,0.0,Male,Asian,Master's Degree
+Data Scientist,213000,10.0,10.0,Male,Asian,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Some College
+Product Manager,450000,15.0,4.0,Male,Asian,Master's Degree
+Product Manager,213000,9.0,7.0,Male,Asian,Bachelor's Degree
+Business Analyst,199000,9.0,7.0,Male,Asian,Bachelor's Degree
+Product Manager,196000,5.0,0.0,Male,Asian,Master's Degree
+Data Scientist,270000,5.0,4.0,Male,Asian,Master's Degree
+Product Designer,234000,9.0,3.0,Female,White,Bachelor's Degree
+Software Engineer,174000,5.0,1.0,Male,Asian,Master's Degree
+Software Engineer,147000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,216000,6.0,6.0,Male,Asian,Bachelor's Degree
+Product Manager,258000,14.0,3.0,Male,Asian,Master's Degree
+Software Engineer,218000,6.0,4.0,Male,Asian,PhD
+Product Manager,331000,15.0,1.0,Male,White,PhD
+Technical Program Manager,286000,20.0,5.0,Male,Hispanic,Master's Degree
+Software Engineer,330000,13.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,152000,1.0,1.0,Male,Hispanic,Master's Degree
+Software Engineer,334000,12.0,6.0,Male,White,Bachelor's Degree
+Marketing,231000,20.0,6.0,Female,Hispanic,Bachelor's Degree
+Software Engineer,193000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineering Manager,312000,20.0,10.0,Male,Asian,Master's Degree
+Data Scientist,215000,10.0,10.0,Male,Asian,Bachelor's Degree
+Software Engineer,163000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,200000,3.0,0.0,Male,Asian,Bachelor's Degree
+Others,110000,5.0,5.0,Male,Asian,Bachelor's Degree
+Others,120000,1.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,395000,13.0,8.0,Male,Hispanic,Master's Degree
+Software Engineer,380000,11.0,8.0,Male,Asian,Bachelor's Degree
+Product Designer,200000,5.0,5.0,Female,Asian,Master's Degree
+Software Engineer,149000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,150000,3.0,0.0,Male,Asian,Master's Degree
+Marketing,175000,6.0,5.0,Male,Asian,Master's Degree
+Software Engineer,417000,15.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,242000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,184000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,220000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,512000,18.0,9.0,Male,Asian,PhD
+Product Manager,400000,15.0,6.0,Male,Asian,Master's Degree
+Software Engineer,175000,4.0,1.0,Male,Asian,Master's Degree
+Software Engineer,229000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,227000,8.0,2.0,Male,Asian,Master's Degree
+Marketing,253000,6.0,6.0,Female,Asian,Bachelor's Degree
+Software Engineer,172000,3.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,104000,0.0,0.0,Female,Hispanic,Bachelor's Degree
+Software Engineer,185000,4.0,4.0,Female,Asian,Bachelor's Degree
+Technical Program Manager,150000,5.0,2.0,Female,Hispanic,Bachelor's Degree
+Software Engineer,206000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,790000,13.0,13.0,Male,White,Bachelor's Degree
+Software Engineer,180000,4.0,4.0,Female,Asian,Master's Degree
+Software Engineer,190000,3.0,3.0,Female,Asian,Master's Degree
+Software Engineer,215000,0.0,0.0,Male,Asian,PhD
+Software Engineer,259000,5.0,1.0,Male,Asian,Master's Degree
+Product Manager,437000,5.0,5.0,Male,Asian,Master's Degree
+Others,137000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,160000,3.0,1.0,Female,Asian,Master's Degree
+Product Manager,510000,11.0,5.0,Male,Asian,Master's Degree
+Software Engineer,265000,6.0,1.0,Male,Asian,Bachelor's Degree
+Others,180000,18.0,2.0,Female,White,Bachelor's Degree
+Product Manager,134000,4.0,3.0,Male,Hispanic,Master's Degree
+Technical Program Manager,165000,4.0,1.0,Male,Black,Bachelor's Degree
+Product Manager,258000,7.0,0.0,Male,Black,Master's Degree
+Software Engineer,210000,3.0,3.0,Male,Asian,Bachelor's Degree
+Data Scientist,215000,0.0,0.0,Male,Asian,PhD
+Software Engineer,320000,8.0,7.0,Female,Asian,Bachelor's Degree
+Software Engineer,145000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,152000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,175000,2.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,230000,6.0,5.0,Male,Asian,Master's Degree
+Software Engineer,224000,7.0,5.0,Male,Asian,Master's Degree
+Technical Program Manager,200000,5.0,5.0,Male,White,Bachelor's Degree
+Product Manager,226000,4.0,1.0,Male,Black,Master's Degree
+Product Manager,220000,9.0,1.0,Male,Asian,Master's Degree
+Software Engineer,175000,0.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,190000,8.0,0.0,Male,Asian,Master's Degree
+Marketing,233000,8.0,1.0,Female,White,Bachelor's Degree
+Software Engineer,223000,8.0,0.0,Male,Asian,Master's Degree
+Software Engineer,254000,15.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,608000,19.0,8.0,Male,Asian,Master's Degree
+Software Engineer,244000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,167000,10.0,10.0,Female,Asian,Bachelor's Degree
+Product Designer,300000,10.0,5.0,Male,Asian,Unknown
+Marketing,160000,7.0,5.0,Male,Asian,Master's Degree
+Technical Program Manager,280000,8.0,1.0,Male,Asian,Master's Degree
+Business Analyst,193000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,202000,5.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,391000,20.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,146000,0.0,0.0,Female,Asian,Master's Degree
+Software Engineering Manager,563000,20.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,300000,7.0,7.0,Male,Asian,Master's Degree
+Technical Program Manager,205000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,195000,6.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,240000,8.0,3.0,Male,Asian,Master's Degree
+Software Engineer,170000,3.0,0.0,Male,Asian,Master's Degree
+Marketing,235000,10.0,1.0,Female,White,Bachelor's Degree
+Software Engineer,177000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,210000,5.0,0.0,Female,Hispanic,Bachelor's Degree
+Software Engineer,359000,18.0,7.0,Male,White,Master's Degree
+Product Manager,288000,10.0,4.0,Male,Two Or More,Master's Degree
+Product Manager,250000,12.0,5.0,Male,White,PhD
+Software Engineer,255000,3.0,0.0,Male,Hispanic,Master's Degree
+Software Engineer,144000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,246000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,215000,5.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,425000,10.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,226000,8.0,0.0,Male,Asian,Master's Degree
+Software Engineer,198000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,168000,3.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,181000,2.0,0.0,Male,Asian,Master's Degree
+Business Analyst,122000,5.0,0.0,Female,Asian,Master's Degree
+Software Engineer,223000,8.0,0.0,Male,Asian,Master's Degree
+Product Manager,550000,15.0,4.0,Male,Asian,Master's Degree
+Product Manager,240000,13.0,7.0,Male,Asian,Master's Degree
+Software Engineer,167000,3.0,2.0,Female,Asian,Master's Degree
+Software Engineer,173000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,220000,12.0,7.0,Male,Asian,Master's Degree
+Software Engineer,144000,0.0,0.0,Male,Two Or More,Bachelor's Degree
+Technical Program Manager,298000,25.0,0.0,Male,White,Master's Degree
+Software Engineer,330000,22.0,5.0,Male,White,Highschool
+Product Manager,211000,10.0,6.0,Male,White,Master's Degree
+Software Engineer,170000,15.0,2.0,Male,White,Bachelor's Degree
+Technical Program Manager,132000,9.0,1.0,Male,White,Bachelor's Degree
+Others,198000,10.0,0.0,Female,Black,PhD
+Business Analyst,130000,5.0,0.0,Female,Asian,Unknown
+Software Engineer,161000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,160000,3.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,153000,2.0,0.0,Male,Asian,Master's Degree
+Technical Program Manager,164000,8.0,0.0,Male,Asian,Master's Degree
+Software Engineer,152000,2.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,220000,6.0,6.0,Female,Asian,Bachelor's Degree
+Software Engineer,238000,3.0,0.0,Male,Black,Bachelor's Degree
+Software Engineer,187000,8.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,165000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,282000,8.0,5.0,Male,Asian,Master's Degree
+Technical Program Manager,187000,17.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,340000,6.0,4.0,Male,White,Bachelor's Degree
+Software Engineering Manager,275000,8.0,0.0,Male,White,Bachelor's Degree
+Product Manager,222000,7.0,5.0,Female,White,Master's Degree
+Business Analyst,131000,3.0,0.0,Male,Asian,Master's Degree
+Others,120000,3.0,1.0,Male,White,Master's Degree
+Software Engineer,244000,5.0,0.0,Male,White,Highschool
+Product Manager,170000,5.0,1.0,Female,White,Bachelor's Degree
+Software Engineer,145000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,223000,6.0,3.0,Male,Asian,Bachelor's Degree
+Product Designer,205000,5.0,0.0,Female,White,Master's Degree
+Software Engineering Manager,390000,14.0,0.0,Male,Asian,Master's Degree
+Software Engineer,240000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,219000,3.0,0.0,Male,Asian,Bachelor's Degree
+Others,218000,10.0,0.0,Female,Asian,Master's Degree
+Software Engineer,238000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,293000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,340000,6.0,5.0,Male,Asian,Master's Degree
+Software Engineer,189000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,138000,1.0,1.0,Male,Asian,Bachelor's Degree
+Others,120000,4.0,4.0,Female,Asian,Master's Degree
+Others,120000,2.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,177000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,162000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,502000,10.0,8.0,Male,White,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Female,Asian,Bachelor's Degree
+Product Manager,209000,9.0,3.0,Male,Hispanic,Master's Degree
+Software Engineer,150000,1.0,0.0,Female,Asian,Master's Degree
+Software Engineer,180000,4.0,1.0,Male,Asian,Master's Degree
+Software Engineer,204000,7.0,7.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,240000,4.0,3.0,Female,Asian,Master's Degree
+Software Engineering Manager,311000,11.0,7.0,Male,Asian,Master's Degree
+Software Engineer,700000,14.0,8.0,Male,White,Master's Degree
+Software Engineer,235000,3.0,0.0,Female,Asian,Master's Degree
+Technical Program Manager,215000,11.0,2.0,Male,Asian,Master's Degree
+Software Engineer,205000,5.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,154000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineering Manager,376000,20.0,6.0,Male,White,Master's Degree
+Software Engineer,192000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,205000,8.0,2.0,Male,Asian,Master's Degree
+Software Engineer,232000,2.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,170000,0.0,0.0,Male,Asian,Master's Degree
+Others,200000,14.0,1.0,Male,White,Master's Degree
+Technical Program Manager,165000,14.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,180000,1.0,1.0,Male,White,Bachelor's Degree
+Business Analyst,125000,5.0,1.0,Male,White,Master's Degree
+Product Manager,282000,7.0,0.0,Male,Asian,Master's Degree
+Software Engineer,190000,2.0,2.0,Male,White,Bachelor's Degree
+Product Manager,280000,15.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,247000,10.0,3.0,Male,Asian,Master's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,205000,5.0,3.0,Male,Asian,Master's Degree
+Software Engineer,186000,7.0,5.0,Male,Asian,Master's Degree
+Software Engineer,196000,3.0,3.0,Female,Asian,Master's Degree
+Software Engineer,225000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,220000,14.0,5.0,Male,Asian,Master's Degree
+Software Engineer,171000,2.0,0.0,Male,White,Highschool
+Business Analyst,128000,3.0,1.0,Male,Asian,Master's Degree
+Software Engineer,175000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,130000,1.0,1.0,Male,Asian,Bachelor's Degree
+Product Manager,220000,7.0,4.0,Male,Asian,Master's Degree
+Business Analyst,222000,12.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,153000,1.0,0.0,Male,White,Master's Degree
+Software Engineer,207000,7.0,4.0,Male,Asian,Master's Degree
+Others,135000,5.0,5.0,Female,Asian,Bachelor's Degree
+Software Engineer,130000,5.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,188000,0.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,420000,15.0,7.0,Male,White,Bachelor's Degree
+Business Analyst,127000,9.0,0.0,Female,Asian,Master's Degree
+Product Manager,244000,15.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,133000,3.0,2.0,Male,Asian,Master's Degree
+Software Engineer,200000,2.0,2.0,Male,White,Bachelor's Degree
+Product Manager,230000,5.0,0.0,Male,White,Master's Degree
+Software Engineer,159000,1.0,1.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,205000,5.0,3.0,Male,Asian,Master's Degree
+Technical Program Manager,264000,15.0,11.0,Male,Asian,Bachelor's Degree
+Software Engineer,227000,4.0,3.0,Female,White,Bachelor's Degree
+Others,161000,4.0,1.0,Female,White,Bachelor's Degree
+Software Engineering Manager,456000,17.0,4.0,Male,Asian,Master's Degree
+Product Manager,197000,5.0,2.0,Male,White,Master's Degree
+Technical Program Manager,240000,21.0,4.0,Male,Asian,Master's Degree
+Technical Program Manager,190000,10.0,4.0,Female,Asian,Master's Degree
+Product Manager,276000,8.0,3.0,Male,White,Master's Degree
+Software Engineer,530000,14.0,10.0,Male,Asian,Master's Degree
+Software Engineer,205000,5.0,1.0,Male,White,Master's Degree
+Software Engineer,460000,11.0,10.0,Male,Asian,Bachelor's Degree
+Software Engineer,203000,3.0,3.0,Female,Asian,Master's Degree
+Product Manager,85000,0.0,0.0,Male,White,Bachelor's Degree
+Others,151000,10.0,4.0,Female,White,Master's Degree
+Software Engineer,155000,4.0,0.0,Male,Asian,Master's Degree
+Business Analyst,135000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,317000,8.0,2.0,Male,White,Bachelor's Degree
+Technical Program Manager,123000,10.0,0.0,Male,White,Master's Degree
+Software Engineering Manager,760000,23.0,2.0,Male,Two Or More,Master's Degree
+Others,135000,6.0,2.0,Male,Black,PhD
+Product Manager,277000,16.0,6.0,Male,Asian,Master's Degree
+Software Engineer,153000,0.0,0.0,Female,White,Bachelor's Degree
+Software Engineer,244000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,191000,6.0,3.0,Female,Asian,Master's Degree
+Software Engineering Manager,310000,16.0,4.0,Male,Asian,Master's Degree
+Software Engineer,197000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineering Manager,321000,9.0,2.0,Female,Hispanic,Master's Degree
+Software Engineer,200000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,150000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,194000,5.0,2.0,Female,Asian,Master's Degree
+Software Engineer,166000,3.0,2.0,Male,Two Or More,Highschool
+Technical Program Manager,525000,15.0,7.0,Male,White,PhD
+Software Engineer,144000,2.0,1.0,Female,White,Bachelor's Degree
+Software Engineering Manager,452000,20.0,5.0,Male,Black,Master's Degree
+Software Engineer,295000,9.0,9.0,Male,Asian,Bachelor's Degree
+Software Engineer,205000,3.0,3.0,Male,Asian,Bachelor's Degree
+Product Manager,175000,6.0,1.0,Male,Hispanic,Master's Degree
+Others,97000,3.0,3.0,Female,White,Bachelor's Degree
+Product Manager,210000,10.0,6.0,Male,White,Bachelor's Degree
+Software Engineer,241000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,320000,6.0,6.0,Male,Asian,Master's Degree
+Software Engineering Manager,575000,15.0,5.0,Male,White,Bachelor's Degree
+Product Manager,216000,8.0,3.0,Female,Black,Master's Degree
+Software Engineer,198000,6.0,2.0,Male,White,Unknown
+Software Engineer,315000,10.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,205000,7.0,0.0,Male,Asian,Master's Degree
+Others,450000,15.0,2.0,Male,White,Master's Degree
+Others,150000,1.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineer,233000,7.0,0.0,Male,Asian,Master's Degree
+Software Engineer,213000,5.0,5.0,Male,Asian,Master's Degree
+Software Engineer,170000,4.0,0.0,Male,Asian,Master's Degree
+Product Manager,270000,20.0,20.0,Male,White,Unknown
+Software Engineer,235000,4.0,1.0,Male,Asian,Master's Degree
+Software Engineer,167000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,150000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineering Manager,497000,18.0,4.0,Male,Asian,Master's Degree
+Software Engineer,277000,10.0,6.0,Male,Asian,Bachelor's Degree
+Product Manager,388000,10.0,5.0,Male,Asian,Master's Degree
+Others,275000,5.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineer,185000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,161000,0.0,0.0,Male,Asian,Master's Degree
+Product Manager,343000,30.0,0.0,Male,Asian,Master's Degree
+Software Engineer,325000,7.0,4.0,Male,Asian,Master's Degree
+Software Engineer,218000,15.0,4.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,186000,5.0,1.0,Male,White,Bachelor's Degree
+Product Manager,190000,6.0,0.0,Male,Asian,Master's Degree
+Software Engineer,234000,6.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,152000,0.0,0.0,Male,Asian,Bachelor's Degree
+Others,136000,9.0,1.0,Male,Two Or More,Master's Degree
+Software Engineer,160000,1.0,0.0,Male,Black,Bachelor's Degree
+Others,245000,8.0,0.0,Male,Asian,Master's Degree
+Software Engineering Manager,365000,10.0,8.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,205000,10.0,10.0,Female,White,Master's Degree
+Software Engineering Manager,386000,12.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,138000,0.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,435000,20.0,0.0,Male,White,Unknown
+Software Engineer,150000,1.0,0.0,Female,Asian,Master's Degree
+Software Engineer,257000,7.0,2.0,Male,Hispanic,Bachelor's Degree
+Product Manager,660000,25.0,7.0,Male,White,Master's Degree
+Software Engineer,199000,7.0,5.0,Male,Two Or More,Highschool
+Data Scientist,180000,1.0,0.0,Other,White,PhD
+Software Engineer,200000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,165000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,171000,1.0,1.0,Male,Asian,Master's Degree
+Business Analyst,133000,5.0,1.0,Male,Hispanic,Bachelor's Degree
+Business Analyst,79000,3.0,3.0,Female,Asian,Bachelor's Degree
+Software Engineer,160000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,160000,6.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,161000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,128000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,240000,5.0,3.0,Male,Hispanic,Master's Degree
+Software Engineer,165000,3.0,1.0,Male,Black,Bachelor's Degree
+Software Engineer,173000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,157000,1.0,1.0,Male,Asian,Bachelor's Degree
+Marketing,143000,8.0,6.0,Female,White,Bachelor's Degree
+Software Engineer,154000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,224000,11.0,3.0,,Asian,Master's Degree
+Software Engineer,300000,14.0,6.0,Male,White,Master's Degree
+Software Engineer,191000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineering Manager,375000,16.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,250000,12.0,1.0,Male,Two Or More,Some College
+Software Engineer,154000,1.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,378000,8.0,8.0,Female,Two Or More,Bachelor's Degree
+Marketing,140000,5.0,2.0,Female,White,Bachelor's Degree
+Software Engineer,155000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,130000,3.0,0.0,Male,White,Highschool
+Software Engineer,145000,1.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,155000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,198000,4.0,0.0,Male,White,Highschool
+Product Manager,300000,13.0,5.0,Male,Hispanic,Master's Degree
+Software Engineer,238000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,468000,15.0,8.0,Male,Asian,Bachelor's Degree
+Software Engineer,138000,0.0,0.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,152000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,250000,3.0,3.0,Female,Two Or More,Master's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Master's Degree
+Product Manager,175000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,210000,5.0,1.0,Male,Asian,Master's Degree
+Others,200000,5.0,0.0,Male,Asian,Master's Degree
+Product Manager,340000,8.0,5.0,Male,Asian,Master's Degree
+Product Designer,208000,6.0,0.0,Female,White,Master's Degree
+Software Engineer,256000,9.0,2.0,Male,White,Bachelor's Degree
+Product Designer,233000,9.0,4.0,Female,White,Bachelor's Degree
+Data Scientist,163000,5.0,5.0,Male,Asian,Master's Degree
+Marketing,156000,5.0,5.0,Male,White,Bachelor's Degree
+Data Scientist,203000,0.0,0.0,Female,Asian,Master's Degree
+Data Scientist,205000,6.0,4.0,Male,White,Bachelor's Degree
+Others,212000,12.0,5.0,Male,White,Master's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,217000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,210000,7.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,295000,9.0,9.0,Male,Asian,Bachelor's Degree
+Product Manager,300000,10.0,3.0,Male,Asian,Master's Degree
+Software Engineer,173000,2.0,1.0,Male,Two Or More,Bachelor's Degree
+Software Engineering Manager,560000,10.0,1.0,Male,Asian,PhD
+Software Engineering Manager,600000,11.0,1.0,Male,Asian,PhD
+Software Engineer,205000,2.0,2.0,Male,Asian,Master's Degree
+Technical Program Manager,200000,10.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,152000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,151000,4.0,2.0,Female,White,Bachelor's Degree
+Software Engineer,172000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,305000,14.0,1.0,Male,White,Unknown
+Software Engineer,165000,16.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,380000,15.0,8.0,Male,Asian,Bachelor's Degree
+Software Engineer,340000,8.0,5.0,Male,Two Or More,Master's Degree
+Software Engineering Manager,320000,18.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,165000,0.0,0.0,Male,Asian,Master's Degree
+Others,320000,16.0,6.0,Male,White,PhD
+Product Manager,220000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,144000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineering Manager,550000,25.0,4.0,Male,White,Master's Degree
+Software Engineering Manager,360000,15.0,4.0,Male,White,Master's Degree
+Product Manager,238000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,293000,5.0,5.0,Female,Asian,Master's Degree
+Software Engineer,188000,6.0,6.0,Male,Black,Bachelor's Degree
+Data Scientist,337000,4.0,0.0,Female,Asian,Master's Degree
+Data Scientist,156000,8.0,1.0,Male,Hispanic,Master's Degree
+Marketing,145000,6.0,5.0,Female,White,Bachelor's Degree
+Software Engineer,140000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,147000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,270000,6.0,2.0,Male,Asian,Master's Degree
+Software Engineer,250000,10.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,200000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,158000,2.0,0.0,Male,White,Bachelor's Degree
+Technical Program Manager,164000,16.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,191000,4.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,467000,10.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,290000,3.0,2.0,Male,White,PhD
+Software Engineer,228000,10.0,7.0,Male,Asian,Master's Degree
+Software Engineer,292000,6.0,6.0,Male,Asian,Bachelor's Degree
+Marketing,318000,15.0,4.0,Female,Asian,Master's Degree
+Product Manager,165000,7.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,320000,28.0,1.0,Male,White,Master's Degree
+Software Engineer,179000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineering Manager,480000,12.0,8.0,Male,Asian,Master's Degree
+Software Engineering Manager,390000,17.0,9.0,Male,Asian,Unknown
+Data Scientist,214000,4.0,4.0,Male,White,Bachelor's Degree
+Product Designer,105000,2.0,1.0,Other,Two Or More,Bachelor's Degree
+Technical Program Manager,160000,5.0,3.0,Female,White,Bachelor's Degree
+Software Engineer,158000,0.0,0.0,Female,White,Bachelor's Degree
+Product Manager,195000,3.0,3.0,Male,Asian,Master's Degree
+Product Designer,207000,5.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,198000,2.0,2.0,Male,Two Or More,Bachelor's Degree
+Technical Program Manager,300000,9.0,0.0,Male,Asian,Master's Degree
+Software Engineer,146000,1.0,1.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,270000,15.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,600000,20.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,289000,9.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,168000,4.0,0.0,Male,Asian,Master's Degree
+Product Manager,258000,15.0,10.0,Male,Asian,Master's Degree
+Software Engineering Manager,480000,22.0,5.0,Male,Black,Master's Degree
+Software Engineer,295000,5.0,3.0,Male,Asian,Master's Degree
+Software Engineer,151000,0.0,0.0,Female,Asian,Master's Degree
+Data Scientist,232000,1.0,0.0,Male,Asian,PhD
+Product Manager,330000,10.0,0.0,Male,White,Master's Degree
+Product Manager,460000,20.0,4.0,Female,White,Bachelor's Degree
+Software Engineer,199000,7.0,6.0,Female,Asian,Master's Degree
+Software Engineer,190000,7.0,4.0,Male,Asian,Master's Degree
+Software Engineering Manager,567000,22.0,7.0,Male,Asian,Master's Degree
+Technical Program Manager,200000,10.0,10.0,Female,Asian,Master's Degree
+Product Manager,200000,7.0,1.0,Female,Asian,Master's Degree
+Others,120000,4.0,2.0,Female,Two Or More,Some College
+Software Engineer,238000,7.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,200000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,231000,4.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,260000,9.0,8.0,Male,White,Bachelor's Degree
+Product Manager,269000,5.0,1.0,Female,White,Unknown
+Software Engineering Manager,405000,18.0,14.0,Male,Asian,Master's Degree
+Software Engineer,148000,3.0,2.0,Male,Asian,Master's Degree
+Software Engineer,230000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineering Manager,365000,10.0,6.0,Male,Asian,Master's Degree
+Product Manager,268000,4.0,4.0,Male,Asian,Master's Degree
+Product Manager,210000,8.0,1.0,Male,White,Master's Degree
+Software Engineer,430000,11.0,4.0,Male,Hispanic,Bachelor's Degree
+Others,200000,5.0,0.0,Male,Asian,Master's Degree
+Technical Program Manager,253000,8.0,3.0,Male,Asian,Master's Degree
+Software Engineer,195000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,224000,6.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,214000,5.0,5.0,Male,Asian,Master's Degree
+Software Engineer,230000,3.0,3.0,Male,White,Bachelor's Degree
+Product Manager,260000,7.0,0.0,Male,Asian,Master's Degree
+Others,107000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,136000,3.0,2.0,Male,Asian,Master's Degree
+Data Scientist,231000,4.0,0.0,Male,Asian,Master's Degree
+Product Designer,240000,5.0,2.0,Male,Asian,Master's Degree
+Software Engineer,146000,3.0,3.0,Male,Asian,Bachelor's Degree
+Product Designer,225000,15.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,176000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,239000,6.0,6.0,Female,White,Bachelor's Degree
+Software Engineering Manager,425000,14.0,10.0,Male,Asian,Master's Degree
+Software Engineer,240000,16.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,288000,5.0,0.0,Male,Asian,Master's Degree
+Product Manager,229000,7.0,0.0,Male,Asian,Master's Degree
+Business Analyst,217000,7.0,4.0,Male,Asian,Master's Degree
+Business Analyst,113000,5.0,2.0,Male,Asian,Master's Degree
+Software Engineer,284000,8.0,7.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,375000,16.0,4.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,130000,5.0,0.0,Female,Asian,Master's Degree
+Product Manager,650000,20.0,3.0,Male,White,Master's Degree
+Software Engineer,220000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,205000,5.0,5.0,Male,Asian,Bachelor's Degree
+Product Manager,145000,5.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,225000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,204000,2.0,2.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,229000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,360000,6.0,6.0,Female,Asian,Bachelor's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,367000,7.0,7.0,Male,White,Bachelor's Degree
+Others,200000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,268000,5.0,2.0,Male,White,Bachelor's Degree
+Marketing,90000,3.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,201000,3.0,3.0,Female,Asian,Master's Degree
+Others,405000,10.0,4.0,Male,Asian,Master's Degree
+Software Engineer,140000,1.0,1.0,Male,White,Master's Degree
+Software Engineer,147000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,392000,8.0,8.0,Male,Asian,Bachelor's Degree
+Software Engineer,310000,10.0,6.0,Male,Asian,Master's Degree
+Software Engineer,339000,8.0,8.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,200000,6.0,3.0,Female,White,Unknown
+Software Engineering Manager,440000,13.0,4.0,Male,Asian,Master's Degree
+Software Engineer,209000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,300000,10.0,4.0,Male,White,Master's Degree
+Software Engineer,198000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,178000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,211000,3.0,3.0,Female,White,Bachelor's Degree
+Software Engineering Manager,300000,15.0,8.0,Male,Asian,Master's Degree
+Software Engineer,279000,6.0,3.0,Male,Asian,Master's Degree
+Software Engineer,225000,5.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,437000,15.0,9.0,Male,Asian,Master's Degree
+Others,126000,2.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,134000,2.0,2.0,Male,Asian,Master's Degree
+Product Manager,225000,5.0,5.0,Female,White,Bachelor's Degree
+Software Engineer,207000,8.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,243000,4.0,3.0,Male,Asian,Master's Degree
+Software Engineer,164000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,200000,6.0,2.0,Male,Asian,Master's Degree
+Software Engineer,210000,4.0,4.0,Male,Asian,Unknown
+Software Engineer,390000,18.0,9.0,Male,Asian,Master's Degree
+Software Engineer,450000,18.0,9.0,Male,Asian,Master's Degree
+Product Manager,180000,9.0,5.0,Male,White,Master's Degree
+Marketing,140000,4.0,1.0,Female,Asian,Master's Degree
+Software Engineer,280000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,298000,7.0,5.0,Male,Asian,Master's Degree
+Data Scientist,234000,15.0,4.0,Male,Asian,Master's Degree
+Software Engineer,280000,5.0,4.0,Male,Two Or More,Bachelor's Degree
+Product Designer,200000,4.0,0.0,Male,Two Or More,Master's Degree
+Product Manager,363000,15.0,2.0,Male,White,Master's Degree
+Software Engineer,171000,8.0,5.0,Male,Asian,Master's Degree
+Software Engineer,307000,5.0,5.0,Male,Asian,Master's Degree
+Data Scientist,228000,2.0,1.0,Male,Asian,PhD
+Software Engineer,284000,8.0,7.0,Male,White,Bachelor's Degree
+Product Manager,270000,12.0,0.0,Female,Asian,Master's Degree
+Software Engineer,505000,20.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,304000,9.0,7.0,Male,Asian,Bachelor's Degree
+Product Manager,210000,6.0,1.0,Male,Asian,Master's Degree
+Software Engineer,235000,8.0,0.0,Male,Asian,Master's Degree
+Software Engineer,200000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,488000,15.0,8.0,Male,Asian,Bachelor's Degree
+Product Manager,210000,12.0,4.0,Male,White,Master's Degree
+Technical Program Manager,225000,10.0,3.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,172000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineering Manager,400000,11.0,11.0,Male,Asian,Master's Degree
+Data Scientist,330000,8.0,3.0,Male,Asian,PhD
+Software Engineering Manager,402000,10.0,6.0,Male,Asian,Master's Degree
+Business Analyst,90000,3.0,0.0,Female,Asian,Master's Degree
+Business Analyst,97000,2.0,2.0,Female,White,Bachelor's Degree
+Software Engineer,255000,5.0,0.0,Female,Asian,Master's Degree
+Product Manager,180000,5.0,5.0,Female,White,Bachelor's Degree
+Software Engineer,220000,4.0,4.0,Male,Asian,Bachelor's Degree
+Product Manager,414000,13.0,5.0,Male,Asian,Master's Degree
+Software Engineering Manager,530000,18.0,1.0,Male,Asian,Master's Degree
+Software Engineer,153000,0.0,0.0,Male,Asian,Master's Degree
+Technical Program Manager,198000,14.0,0.0,Male,White,Unknown
+Software Engineer,236000,9.0,1.0,Male,Asian,Master's Degree
+Data Scientist,201000,5.0,2.0,Male,White,Master's Degree
+Software Engineer,220000,8.0,6.0,Male,White,Bachelor's Degree
+Software Engineering Manager,307000,10.0,0.0,Male,Asian,Master's Degree
+Software Engineer,295000,5.0,4.0,Male,Asian,Master's Degree
+Software Engineer,250000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,225000,4.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,361000,9.0,9.0,Male,Asian,Bachelor's Degree
+Marketing,400000,13.0,6.0,Female,White,Bachelor's Degree
+Product Designer,155000,3.0,1.0,Female,Two Or More,Bachelor's Degree
+Software Engineer,200000,3.0,3.0,Male,Asian,Master's Degree
+Software Engineer,172000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,250000,10.0,10.0,Male,Asian,Master's Degree
+Product Manager,290000,8.0,0.0,Female,Asian,PhD
+Software Engineer,278000,9.0,2.0,Male,White,PhD
+Software Engineer,184000,16.0,6.0,Male,Hispanic,PhD
+Software Engineer,215000,11.0,6.0,Male,Asian,Bachelor's Degree
+Business Analyst,199000,5.0,3.0,Male,Asian,Master's Degree
+Software Engineer,300000,5.0,5.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,245000,5.0,0.0,Male,Asian,Master's Degree
+Software Engineer,162000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,200000,5.0,2.0,Male,Asian,Master's Degree
+Software Engineer,214000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,216000,6.0,4.0,Male,Asian,Master's Degree
+Marketing,150000,8.0,5.0,Male,White,Bachelor's Degree
+Software Engineering Manager,660000,23.0,9.0,Male,White,Master's Degree
+Technical Program Manager,322000,13.0,13.0,Male,White,Bachelor's Degree
+Product Manager,209000,5.0,0.0,Male,White,Master's Degree
+Software Engineer,261000,8.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,173000,1.0,0.0,Male,Asian,Master's Degree
+Software Engineer,294000,7.0,4.0,Male,Asian,Master's Degree
+Data Scientist,152000,5.0,4.0,Male,Asian,Master's Degree
+Software Engineer,154000,0.0,0.0,Male,White,Bachelor's Degree
+Product Designer,285000,12.0,7.0,Male,Asian,Master's Degree
+Software Engineering Manager,319000,10.0,5.0,Male,Asian,Master's Degree
+Software Engineer,340000,9.0,9.0,Male,Asian,Bachelor's Degree
+Software Engineer,400000,9.0,0.0,Male,Asian,PhD
+Product Manager,240000,10.0,7.0,Male,Asian,Master's Degree
+Software Engineer,308000,10.0,8.0,Male,Asian,Bachelor's Degree
+Software Engineer,144000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,155000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,216000,7.0,1.0,Female,Asian,Master's Degree
+Technical Program Manager,260000,11.0,1.0,Male,Asian,Master's Degree
+Software Engineer,271000,2.0,0.0,Male,White,Bachelor's Degree
+Others,237000,10.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,168000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,306000,7.0,6.0,Male,Asian,Bachelor's Degree
+Product Manager,300000,15.0,5.0,Male,Asian,Master's Degree
+Software Engineer,251000,7.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,230000,3.0,3.0,Female,Asian,Master's Degree
+Software Engineer,229000,7.0,5.0,Female,Asian,Master's Degree
+Software Engineer,325000,20.0,10.0,Male,White,Unknown
+Software Engineering Manager,700000,22.0,7.0,Male,Two Or More,Master's Degree
+Software Engineer,225000,7.0,6.0,Male,Asian,Master's Degree
+Software Engineering Manager,341000,13.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,400000,9.0,8.0,Male,White,Bachelor's Degree
+Software Engineer,283000,7.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,297000,5.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,178000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,258000,18.0,8.0,Male,Asian,Master's Degree
+Software Engineer,172000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineering Manager,330000,16.0,12.0,Female,White,Master's Degree
+Software Engineer,345000,6.0,6.0,Female,White,Unknown
+Software Engineer,194000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,170000,1.0,1.0,Male,White,Bachelor's Degree
+Product Designer,189000,10.0,5.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,365000,15.0,11.0,Male,Asian,Master's Degree
+Software Engineer,132000,2.0,2.0,Male,Asian,Master's Degree
+Product Manager,195000,5.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,228000,7.0,7.0,Male,Asian,Bachelor's Degree
+Product Manager,235000,7.0,7.0,Female,Asian,Master's Degree
+Marketing,194000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,198000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,280000,8.0,6.0,Male,Asian,Master's Degree
+Product Designer,282000,14.0,0.0,Male,White,Bachelor's Degree
+Product Manager,202000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,197000,2.0,0.0,Female,White,Bachelor's Degree
+Software Engineer,250000,5.0,3.0,Male,Asian,Master's Degree
+Marketing,313000,12.0,4.0,Male,Asian,Master's Degree
+Software Engineer,237000,0.0,0.0,Female,White,PhD
+Software Engineering Manager,360000,18.0,0.0,Female,Asian,Master's Degree
+Software Engineer,348000,14.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,400000,21.0,7.0,Male,White,Master's Degree
+Software Engineer,200000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,200000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,165000,2.0,2.0,Male,Asian,Master's Degree
+Product Manager,262000,15.0,6.0,Male,White,Bachelor's Degree
+Software Engineer,220000,3.0,0.0,Female,Asian,Master's Degree
+Software Engineer,235000,4.0,4.0,Male,Asian,Unknown
+Software Engineer,381000,10.0,4.0,Male,Two Or More,Master's Degree
+Software Engineer,170000,2.0,2.0,Male,White,Master's Degree
+Technical Program Manager,150000,5.0,3.0,Male,White,Master's Degree
+Product Manager,372000,20.0,2.0,Male,White,Master's Degree
+Product Manager,275000,11.0,3.0,Male,White,Master's Degree
+Software Engineer,255000,4.0,0.0,Male,White,Bachelor's Degree
+Marketing,205000,10.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,220000,9.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,180000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,308000,11.0,11.0,Male,Two Or More,Bachelor's Degree
+Software Engineering Manager,445000,13.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,166000,2.0,2.0,Male,Asian,Bachelor's Degree
+Others,215000,10.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,280000,5.0,5.0,Male,Asian,Master's Degree
+Software Engineer,166000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,212000,9.0,2.0,Female,White,Unknown
+Software Engineering Manager,243000,14.0,4.0,Female,Asian,Master's Degree
+Software Engineering Manager,260000,11.0,4.0,Male,Black,Master's Degree
+Product Manager,290000,6.0,1.0,Female,Asian,Master's Degree
+Software Engineer,202000,6.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,211000,7.0,7.0,Male,White,Bachelor's Degree
+Software Engineer,290000,10.0,6.0,Male,White,Bachelor's Degree
+Software Engineer,290000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,232000,5.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,196000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,198000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineering Manager,510000,15.0,10.0,Male,White,Master's Degree
+Software Engineer,285000,12.0,2.0,Male,White,Master's Degree
+Software Engineer,144000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,222000,4.0,4.0,Male,Asian,Master's Degree
+Product Manager,299000,10.0,5.0,Female,White,Bachelor's Degree
+Software Engineer,193000,3.0,0.0,Male,Black,Master's Degree
+Software Engineer,173000,4.0,1.0,Male,White,Master's Degree
+Software Engineer,204000,7.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,229000,3.0,3.0,Female,Black,Bachelor's Degree
+Software Engineer,298000,3.0,2.0,Male,Asian,Master's Degree
+Software Engineer,210000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,228000,6.0,6.0,Female,Asian,Bachelor's Degree
+Software Engineer,160000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,187000,2.0,1.0,Female,Asian,Master's Degree
+Software Engineer,251000,3.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,216000,4.0,4.0,Male,Asian,Master's Degree
+Others,242000,10.0,3.0,Male,Hispanic,Bachelor's Degree
+Product Manager,180000,3.0,0.0,Male,Asian,Master's Degree
+Product Manager,171000,5.0,1.0,Male,Asian,Master's Degree
+Product Manager,220000,5.0,1.0,Male,Asian,Master's Degree
+Software Engineer,140000,2.0,2.0,Male,Asian,Master's Degree
+Data Scientist,235000,3.0,0.0,Female,White,Master's Degree
+Software Engineer,260000,14.0,6.0,Male,White,Master's Degree
+Product Manager,209000,6.0,0.0,Male,White,Master's Degree
+Software Engineer,178000,2.0,1.0,Female,Asian,Master's Degree
+Product Manager,280000,5.0,5.0,Female,Asian,Master's Degree
+Software Engineering Manager,400000,15.0,8.0,Male,Asian,Bachelor's Degree
+Product Manager,231000,10.0,3.0,Male,White,Master's Degree
+Software Engineer,305000,5.0,5.0,Male,White,Master's Degree
+Software Engineering Manager,530000,17.0,13.0,Male,White,Bachelor's Degree
+Software Engineer,180000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,173000,11.0,11.0,Female,White,Bachelor's Degree
+Data Scientist,165000,3.0,0.0,Male,White,PhD
+Software Engineer,342000,12.0,7.0,Male,White,Bachelor's Degree
+Software Engineer,200000,3.0,3.0,Male,Asian,Bachelor's Degree
+Product Manager,500000,12.0,10.0,Female,Asian,Master's Degree
+Data Scientist,270000,5.0,4.0,Male,Asian,Master's Degree
+Others,87000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,164000,4.0,1.0,Female,Asian,Unknown
+Software Engineer,165000,0.0,0.0,Male,Black,Bachelor's Degree
+Data Scientist,230000,5.0,1.0,Male,Asian,Master's Degree
+Product Manager,190000,10.0,0.0,Male,Hispanic,Master's Degree
+Product Designer,222000,15.0,0.0,Female,White,Master's Degree
+Software Engineering Manager,310000,10.0,0.0,Male,Asian,Bachelor's Degree
+Others,340000,15.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,505000,8.0,8.0,Male,White,Bachelor's Degree
+Software Engineer,180000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineer,225000,7.0,2.0,Male,Asian,Master's Degree
+Software Engineer,540000,20.0,4.0,Male,White,Bachelor's Degree
+Product Manager,250000,7.0,5.0,Male,Asian,Master's Degree
+Software Engineer,143000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineer,173000,2.0,0.0,Male,Asian,Master's Degree
+Others,190000,9.0,2.0,Male,White,Bachelor's Degree
+Product Manager,360000,12.0,5.0,Male,Asian,Master's Degree
+Software Engineer,240000,5.0,5.0,Male,Asian,Master's Degree
+Product Manager,210000,4.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,240000,11.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,176000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,230000,5.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,210000,5.0,3.0,Male,Asian,Master's Degree
+Product Designer,201000,0.0,0.0,Female,White,PhD
+Software Engineer,170000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,325000,7.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,220000,6.0,2.0,Male,Asian,Bachelor's Degree
+Product Manager,270000,9.0,4.0,Female,Asian,Master's Degree
+Software Engineer,173000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,500000,12.0,3.0,Male,White,Highschool
+Software Engineer,173000,5.0,1.0,Male,Hispanic,Bachelor's Degree
+Product Manager,1105000,21.0,11.0,Male,White,Master's Degree
+Product Manager,132000,5.0,1.0,Female,Asian,Master's Degree
+Software Engineer,175000,1.0,0.0,Male,White,Bachelor's Degree
+Product Designer,273000,13.0,1.0,Male,White,Bachelor's Degree
+Software Engineering Manager,370000,11.0,6.0,Male,Asian,Master's Degree
+Software Engineer,360000,10.0,2.0,Male,Asian,Bachelor's Degree
+Product Manager,239000,8.0,1.0,Female,Asian,Master's Degree
+Software Engineer,176000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,144000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,152000,4.0,1.0,Male,Asian,Master's Degree
+Software Engineer,173000,0.0,0.0,Male,Black,Bachelor's Degree
+Product Manager,210000,6.0,6.0,Male,Asian,Bachelor's Degree
+Data Scientist,193000,6.0,4.0,Male,White,PhD
+Others,275000,24.0,0.0,Female,White,Master's Degree
+Software Engineer,309000,10.0,8.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,242000,8.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,165000,2.0,1.0,Female,Asian,Bachelor's Degree
+Product Manager,263000,7.0,2.0,Female,White,Master's Degree
+Software Engineering Manager,320000,13.0,0.0,Male,White,PhD
+Product Manager,228000,6.0,4.0,Male,Asian,Master's Degree
+Software Engineer,175000,2.0,0.0,Male,Asian,Unknown
+Software Engineer,217000,5.0,2.0,Female,Asian,Master's Degree
+Software Engineer,128000,0.0,0.0,Female,White,Some College
+Software Engineer,202000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,218000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,220000,4.0,4.0,Male,White,Bachelor's Degree
+Product Manager,655000,15.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,245000,1.0,0.0,Male,White,Unknown
+Product Manager,308000,10.0,5.0,Female,White,Master's Degree
+Product Manager,422000,8.0,5.0,Male,Asian,Master's Degree
+Software Engineer,208000,5.0,2.0,Male,White,Bachelor's Degree
+Others,192000,4.0,3.0,Male,White,Master's Degree
+Software Engineering Manager,360000,11.0,10.0,Male,Asian,Master's Degree
+Software Engineer,199000,5.0,2.0,Male,Asian,Master's Degree
+Software Engineer,320000,8.0,8.0,Male,White,Master's Degree
+Software Engineering Manager,737000,14.0,0.0,Male,Asian,Master's Degree
+Software Engineer,340000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,418000,12.0,11.0,Male,Asian,Bachelor's Degree
+Software Engineer,210000,3.0,3.0,Male,Asian,Bachelor's Degree
+Software Engineer,520000,10.0,8.0,Male,White,Bachelor's Degree
+Software Engineer,246000,4.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,140000,1.0,1.0,Male,Asian,Master's Degree
+Data Scientist,360000,10.0,4.0,Male,Asian,PhD
+Software Engineer,165000,0.0,0.0,Male,Asian,Bachelor's Degree
+Marketing,95000,4.0,1.0,Female,White,Unknown
+Software Engineer,200000,3.0,3.0,Male,White,Bachelor's Degree
+Product Manager,197000,12.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,220000,5.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineer,160000,2.0,2.0,Female,White,Bachelor's Degree
+Software Engineer,180000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,260000,6.0,6.0,Male,Asian,Master's Degree
+Software Engineer,205000,6.0,5.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,250000,6.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,242000,4.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,180000,3.0,0.0,Male,Black,Bachelor's Degree
+Software Engineer,162000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,159000,2.0,0.0,Male,Asian,Master's Degree
+Business Analyst,147000,4.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,310000,6.0,6.0,Male,White,Bachelor's Degree
+Software Engineer,242000,4.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,160000,10.0,1.0,Male,Asian,Bachelor's Degree
+Product Manager,595000,15.0,6.0,Female,White,Master's Degree
+Software Engineer,161000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,215000,4.0,4.0,Female,Asian,Master's Degree
+Software Engineer,182000,5.0,1.0,Male,Asian,Master's Degree
+Software Engineer,163000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,287000,6.0,2.0,Male,Asian,Master's Degree
+Technical Program Manager,223000,3.0,0.0,Male,White,Master's Degree
+Business Analyst,93000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,205000,3.0,1.0,Male,Asian,Master's Degree
+Software Engineer,180000,2.0,1.0,Male,Asian,Bachelor's Degree
+Product Manager,174000,5.0,1.0,Female,White,Master's Degree
+Software Engineer,189000,20.0,6.0,Male,White,Unknown
+Product Manager,290000,10.0,1.0,Male,Two Or More,Bachelor's Degree
+Software Engineer,180000,7.0,4.0,Male,Asian,Master's Degree
+Technical Program Manager,212000,5.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,287000,9.0,5.0,Male,Asian,Master's Degree
+Software Engineering Manager,446000,9.0,8.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,220000,15.0,5.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,200000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,215000,5.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,160000,5.0,5.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,197000,10.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineer,250000,5.0,5.0,Male,White,Bachelor's Degree
+Product Manager,170000,1.0,1.0,Male,Asian,Master's Degree
+Technical Program Manager,254000,15.0,4.0,Male,Hispanic,PhD
+Software Engineer,189000,3.0,3.0,Female,White,Bachelor's Degree
+Others,165000,15.0,10.0,Female,Black,PhD
+Others,184000,5.0,3.0,Female,White,Master's Degree
+Software Engineer,219000,3.0,1.0,Female,Asian,Master's Degree
+Software Engineer,246000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,203000,4.0,1.0,Male,White,Master's Degree
+Software Engineer,228000,5.0,5.0,Female,Asian,Master's Degree
+Software Engineer,166000,2.0,2.0,Female,Asian,Master's Degree
+Software Engineer,195000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,170000,4.0,0.0,Female,White,Bachelor's Degree
+Software Engineer,227000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,224000,5.0,4.0,Male,Asian,Bachelor's Degree
+Product Designer,200000,8.0,0.0,Female,White,Bachelor's Degree
+Others,81000,3.0,3.0,Female,White,Bachelor's Degree
+Software Engineer,275000,2.0,0.0,Male,Asian,Master's Degree
+Software Engineer,327000,4.0,0.0,Male,Asian,Master's Degree
+Software Engineer,180000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,154000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,145000,2.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,246000,15.0,2.0,Male,Hispanic,Master's Degree
+Software Engineer,226000,4.0,2.0,Male,Asian,Master's Degree
+Software Engineer,260000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,152000,1.0,1.0,Male,Asian,Master's Degree
+Product Manager,128000,10.0,0.0,Female,Black,Bachelor's Degree
+Software Engineer,163000,3.0,0.0,Female,Asian,Master's Degree
+Data Scientist,180000,4.0,2.0,Female,Asian,Master's Degree
+Data Scientist,260000,6.0,1.0,Female,Two Or More,Master's Degree
+Data Scientist,213000,9.0,4.0,Male,Asian,Master's Degree
+Marketing,383000,13.0,5.0,Male,White,Master's Degree
+Software Engineering Manager,368000,20.0,0.0,Female,Asian,Master's Degree
+Software Engineer,290000,5.0,5.0,Male,White,Bachelor's Degree
+Software Engineer,173000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,141000,1.0,1.0,Male,White,Bachelor's Degree
+Software Engineer,297000,7.0,0.0,Male,Asian,Master's Degree
+Software Engineer,173000,2.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,256000,4.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,278000,6.0,6.0,Male,Asian,Bachelor's Degree
+Data Scientist,246000,5.0,2.0,Male,Asian,PhD
+Software Engineer,176000,1.0,1.0,Female,Asian,Master's Degree
+Software Engineer,199000,2.0,2.0,Male,Asian,Master's Degree
+Product Manager,277000,10.0,6.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,320000,4.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,188000,3.0,1.0,Male,White,Master's Degree
+Software Engineer,280000,12.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,278000,8.0,4.0,Male,Asian,Master's Degree
+Software Engineering Manager,780000,18.0,2.0,Male,White,PhD
+Software Engineer,250000,8.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,191000,4.0,2.0,Male,Asian,Master's Degree
+Others,213000,5.0,5.0,Male,White,Master's Degree
+Others,150000,4.0,0.0,Male,Black,Master's Degree
+Software Engineer,388000,17.0,3.0,Male,White,Master's Degree
+Software Engineer,320000,9.0,9.0,Male,Asian,Master's Degree
+Product Manager,210000,4.0,0.0,Male,Asian,Master's Degree
+Product Designer,192000,2.0,0.0,Female,Asian,Master's Degree
+Technical Program Manager,139000,5.0,2.0,Female,White,Bachelor's Degree
+Product Manager,209000,10.0,1.0,Male,Asian,Master's Degree
+Software Engineer,267000,8.0,4.0,Male,White,Bachelor's Degree
+Product Manager,220000,14.0,5.0,Male,Hispanic,Master's Degree
+Software Engineer,216000,6.0,1.0,Male,White,Master's Degree
+Software Engineer,340000,9.0,6.0,Male,Asian,Master's Degree
+Software Engineer,231000,12.0,9.0,Male,Asian,Master's Degree
+Software Engineer,250000,4.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,290000,14.0,0.0,Male,White,Master's Degree
+Software Engineer,150000,3.0,3.0,Male,White,Bachelor's Degree
+Product Manager,200000,8.0,2.0,Male,Asian,Master's Degree
+Product Manager,235000,10.0,4.0,Male,Asian,Master's Degree
+Technical Program Manager,300000,8.0,8.0,Female,Asian,Master's Degree
+Business Analyst,100000,4.0,4.0,Male,White,Unknown
+Software Engineer,168000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,235000,8.0,6.0,Female,Asian,Master's Degree
+Technical Program Manager,210000,11.0,1.0,Male,White,Master's Degree
+Software Engineer,210000,3.0,3.0,Male,Asian,Bachelor's Degree
+Product Manager,276000,6.0,2.0,Female,White,Master's Degree
+Software Engineer,163000,5.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,212000,4.0,3.0,Male,White,Bachelor's Degree
+Product Manager,260000,8.0,5.0,Female,Asian,Master's Degree
+Software Engineer,139000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineering Manager,340000,12.0,1.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,211000,2.0,2.0,Female,Two Or More,Bachelor's Degree
+Product Manager,330000,9.0,4.0,Male,Asian,Master's Degree
+Software Engineer,235000,13.0,1.0,Female,Asian,Master's Degree
+Software Engineer,137000,1.0,0.0,Female,Asian,Master's Degree
+Product Manager,270000,10.0,2.0,Male,Asian,Master's Degree
+Software Engineer,153000,1.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,181000,2.0,0.0,Male,Asian,Master's Degree
+Others,178000,5.0,0.0,Male,Black,Bachelor's Degree
+Software Engineering Manager,325000,12.0,7.0,Male,Asian,Bachelor's Degree
+Software Engineer,145000,1.0,1.0,Male,Asian,Master's Degree
+Software Engineer,163000,0.0,0.0,Female,Asian,Master's Degree
+Software Engineer,164000,2.0,2.0,Male,White,Bachelor's Degree
+Product Manager,153000,4.0,4.0,Female,Black,Master's Degree
+Software Engineer,155000,0.0,0.0,Male,Hispanic,Bachelor's Degree
+Software Engineer,340000,10.0,10.0,Male,Asian,Bachelor's Degree
+Technical Program Manager,287000,15.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,165000,2.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineer,165000,2.0,1.0,Male,Asian,Bachelor's Degree
+Software Engineer,204000,2.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,325000,9.0,0.0,Male,Asian,Master's Degree
+Software Engineer,375000,15.0,6.0,Male,White,Master's Degree
+Software Engineer,172000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,153000,0.0,0.0,Male,White,Bachelor's Degree
+Others,192000,4.0,0.0,Male,White,Bachelor's Degree
+Product Manager,171000,11.0,1.0,Male,Asian,Master's Degree
+Software Engineer,270000,15.0,5.0,Male,Asian,Master's Degree
+Software Engineering Manager,450000,20.0,10.0,Male,Asian,PhD
+Software Engineer,235000,7.0,0.0,Male,Asian,Master's Degree
+Others,340000,15.0,4.0,Male,White,Bachelor's Degree
+Software Engineer,277000,2.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,196000,10.0,3.0,Male,White,Highschool
+Software Engineer,168000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,180000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineering Manager,420000,20.0,2.0,Male,Asian,Bachelor's Degree
+Software Engineer,290000,13.0,6.0,Male,White,Master's Degree
+Software Engineer,371000,18.0,0.0,Male,Asian,PhD
+Product Manager,270000,12.0,1.0,Female,Asian,Master's Degree
+Software Engineer,334000,13.0,13.0,Male,Asian,Bachelor's Degree
+Software Engineer,265000,3.0,0.0,Male,Asian,Bachelor's Degree
+Product Manager,267000,12.0,5.0,Male,Asian,Bachelor's Degree
+Product Manager,550000,6.0,2.0,Male,Asian,Master's Degree
+Data Scientist,179000,2.0,1.0,Male,Asian,Master's Degree
+Software Engineering Manager,280000,13.0,5.0,Male,Hispanic,Master's Degree
+Software Engineer,415000,11.0,4.0,Male,Hispanic,Bachelor's Degree
+Technical Program Manager,215000,17.0,4.0,Female,Asian,Bachelor's Degree
+Technical Program Manager,275000,5.0,0.0,Female,Asian,Master's Degree
+Software Engineer,273000,15.0,5.0,Male,Asian,Master's Degree
+Software Engineering Manager,620000,20.0,8.0,Male,Asian,Master's Degree
+Product Manager,315000,10.0,4.0,Male,White,Master's Degree
+Software Engineer,237000,8.0,3.0,Male,Asian,Master's Degree
+Marketing,146000,6.0,1.0,Female,Asian,Bachelor's Degree
+Software Engineer,226000,5.0,3.0,Male,White,Bachelor's Degree
+Product Designer,228000,16.0,2.0,Male,Black,Bachelor's Degree
+Software Engineering Manager,480000,16.0,7.0,Male,Asian,Master's Degree
+Product Manager,250000,8.0,8.0,Male,White,Master's Degree
+Software Engineering Manager,980000,18.0,9.0,Male,Asian,Master's Degree
+Software Engineer,153000,0.0,0.0,Male,Asian,Master's Degree
+Product Manager,440000,10.0,5.0,Male,Asian,Master's Degree
+Software Engineer,153000,5.0,1.0,Female,Asian,Master's Degree
+Software Engineer,355000,12.0,12.0,Male,Two Or More,Bachelor's Degree
+Product Manager,300000,13.0,4.0,Male,Asian,Bachelor's Degree
+Software Engineer,158000,3.0,0.0,Male,Asian,Master's Degree
+Software Engineer,181000,1.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,171000,2.0,2.0,Male,Asian,Master's Degree
+Software Engineer,214000,8.0,2.0,Female,Asian,Master's Degree
+Software Engineer,255000,8.0,1.0,Male,Asian,Master's Degree
+Technical Program Manager,190000,10.0,4.0,Female,Asian,Master's Degree
+Others,69000,3.0,1.0,Female,Black,Master's Degree
+Technical Program Manager,241000,10.0,6.0,Male,Asian,Bachelor's Degree
+Software Engineer,252000,10.0,3.0,Male,Hispanic,Bachelor's Degree
+Software Engineering Manager,222000,4.0,4.0,Male,Asian,Master's Degree
+Software Engineer,180000,4.0,2.0,Male,Asian,Master's Degree
+Product Manager,218000,10.0,5.0,Male,Hispanic,Master's Degree
+Product Manager,285000,11.0,6.0,Female,Asian,Master's Degree
+Others,243000,5.0,2.0,Male,White,Bachelor's Degree
+Software Engineer,160000,1.0,1.0,Male,Asian,Master's Degree
+Product Manager,168000,3.0,0.0,Female,Asian,Master's Degree
+Software Engineer,378000,15.0,9.0,Male,White,Bachelor's Degree
+Data Scientist,193000,9.0,2.0,Male,Asian,Master's Degree
+Software Engineer,141000,0.0,0.0,Male,White,Bachelor's Degree
+Others,120000,4.0,1.0,Female,White,Bachelor's Degree
+Others,175000,3.0,0.0,Male,White,Bachelor's Degree
+Data Scientist,250000,8.0,5.0,Female,White,Bachelor's Degree
+Software Engineer,165000,3.0,1.0,Male,Asian,Bachelor's Degree
+Product Manager,320000,10.0,7.0,Male,Asian,Master's Degree
+Product Manager,277000,9.0,9.0,Female,White,Bachelor's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Bachelor's Degree
+Software Engineer,289000,11.0,7.0,Male,Asian,Bachelor's Degree
+Software Engineer,219000,5.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,157000,0.0,0.0,Male,White,Bachelor's Degree
+Software Engineer,150000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,155000,0.0,0.0,Male,Asian,Master's Degree
+Software Engineer,212000,8.0,2.0,Male,Asian,Master's Degree
+Product Manager,475000,17.0,10.0,Male,Asian,Master's Degree
+Marketing,201000,5.0,0.0,Female,Asian,Master's Degree
+Product Manager,307000,15.0,4.0,Female,Asian,Master's Degree
+Technical Program Manager,259000,13.0,0.0,Male,Asian,Master's Degree
+Software Engineer,210000,3.0,3.0,Male,White,Bachelor's Degree
+Software Engineer,157000,0.0,0.0,Male,Asian,Master's Degree
+Product Manager,241000,9.0,0.0,Female,Asian,Bachelor's Degree
+Software Engineering Manager,1660000,15.0,15.0,Male,Asian,Unknown
